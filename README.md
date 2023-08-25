@@ -1,1 +1,1 @@
-# Trade_Strategy
+sliding window trade 
